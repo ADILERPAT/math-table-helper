@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_table">Vælg tabel</string>
+    <string name="app_name">Tabel-hjælperen</string>
+<string name="choose_activity">Vælg aktivitet</string>
+<string name="press_heading">Tryk på skærmen hvis nummeret er en del af tabellen</string>
+<string name="StartButton">Begynd</string>
+<string name="press_number">Tryk på skærmen for at begynde</string>
+<string name="next">Næste aktivitet</string>
+<string name="random">Tilfældig rækkefølge</string>
+<string name="reverse">Bagfra</string>
+
+</resources>
+
