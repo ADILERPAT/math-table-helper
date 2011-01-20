@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_table">Choose table to work with</string>
+    <string name="app_name">Math Table Helper</string>
+<string name="choose_activity">Choose Activity</string>
+<string name="press_heading">Press number when it\'s part of the table</string>
+<string name="StartButton">Start</string>
+<string name="press_number">Press to start</string>
+<string name="next">Next</string>
+<string name="random">Random</string>
+
+<string name="reverse">Reverse</string>
+</resources>
